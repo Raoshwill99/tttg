@@ -58,7 +58,7 @@ The game's core logic is implemented in a Clarity smart contract with the follow
 
 ## Contributing
 
-You are welcome contribute to the Time-Travel Trading Game! Please read our contributing guidelines (to be added) before submitting pull requests.
+Contributions to this project are welcome. Please ensure you follow the coding standards and submit pull requests for any new features or bug fixes.
 
 ## License
 
